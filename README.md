@@ -9,6 +9,7 @@ Me chamo Arthur Miguel Bertoluci, tenho 18 anos e sou natural de itapuí, São P
         <img 
             alt="instagram perfil" 
             title="Me siga no insta" 
+            rc="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
