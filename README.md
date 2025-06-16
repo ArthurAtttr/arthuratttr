@@ -31,8 +31,7 @@ Me chamo Arthur Miguel Bertoluci, tenho 18 anos e sou natural de itapuí, São P
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/threedsmax-original.svg" />
-          "
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"       
 />
 
 
