@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Arthur miguel
 
-**`Aspirante a desenvolverdor`**
+**`Aspirante a desenvolvedor`**
 
-Me chamo Arthur Miguel Bertoluci, tenho 18 anos e sou natural de itapuí, São Paulo. Concluí meu ensino médio em escola pública, atualmente cursando técnico em desenvolvimento de sistemas. Sou apaixonado por esportes e tecnologia, gosto muito de aprender sobre varias areas. Busco me armar com conhecimento e buscar melhorias para mim, e para quem valorizo.
+Me chamo Arthur Miguel Bertoluci, tenho 18 anos e sou natural de itapuí, São Paulo. Concluí meu ensino médio em escola pública, atualmente cursando técnico em desenvolvimento de sistemas. Sou apaixonado por esportes e tecnologia, gosto muito de aprender sobre várias áreas. Busco me armar com conhecimento e buscar melhorias para mim, e para quem valorizo.
 
 
 ---
